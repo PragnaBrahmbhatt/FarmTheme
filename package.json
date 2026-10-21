@@ -1,0 +1,15 @@
+{
+  "name": "farmilk-theme",
+  "version": "1.0.0",
+  "description": "Farmilk dairy farm website theme (static HTML built from shared partials)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "serve": "node tools/serve.mjs",
+    "dev": "node tools/build.mjs && node tools/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
