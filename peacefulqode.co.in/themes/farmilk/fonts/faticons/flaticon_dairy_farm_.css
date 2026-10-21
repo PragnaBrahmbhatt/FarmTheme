@@ -1,0 +1,296 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_dairy_farm_";
+    src: url("flaticon_dairy_farm_cb05.woff2?32f10406e053b848ad0ed7874aae01a5") format("woff2"),
+url("flaticon_dairy_farm_cb05.html?32f10406e053b848ad0ed7874aae01a5") format("woff"),
+url("flaticon_dairy_farm_cb05-2.html?32f10406e053b848ad0ed7874aae01a5#iefix") format("embedded-opentype"),
+url("flaticon_dairy_farm_cb05-3.html?32f10406e053b848ad0ed7874aae01a5") format("truetype"),
+url("flaticon_dairy_farm_cb05-4.html?32f10406e053b848ad0ed7874aae01a5#flaticon_dairy_farm_") format("svg")
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: flaticon_dairy_farm_ !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-001-facebook-app-symbol:before {
+    content: "\f101";
+}
+.icon-002-twitter:before {
+    content: "\f102";
+}
+.icon-003-loupe:before {
+    content: "\f103";
+}
+.icon-004-shopping-bag:before {
+    content: "\f104";
+}
+.icon-005-shopping-cart:before {
+    content: "\f105";
+}
+.icon-006-check:before {
+    content: "\f106";
+}
+.icon-007-checked:before {
+    content: "\f107";
+}
+.icon-008-instagram:before {
+    content: "\f108";
+}
+.icon-009-mail:before {
+    content: "\f109";
+}
+.icon-010-location:before {
+    content: "\f10a";
+}
+.icon-011-back:before {
+    content: "\f10b";
+}
+.icon-012-next:before {
+    content: "\f10c";
+}
+.icon-013-clock:before {
+    content: "\f10d";
+}
+.icon-014-market:before {
+    content: "\f10e";
+}
+.icon-015-calendar:before {
+    content: "\f10f";
+}
+.icon-016-schedule:before {
+    content: "\f110";
+}
+.icon-017-check-1:before {
+    content: "\f111";
+}
+.icon-018-linkedin:before {
+    content: "\f112";
+}
+.icon-019-right:before {
+    content: "\f113";
+}
+.icon-020-down-arrow:before {
+    content: "\f114";
+}
+.icon-021-sms:before {
+    content: "\f115";
+}
+.icon-022-circle:before {
+    content: "\f116";
+}
+.icon-023-eyes:before {
+    content: "\f117";
+}
+.icon-024-play-button-arrowhead:before {
+    content: "\f118";
+}
+.icon-025-bottom-right:before {
+    content: "\f119";
+}
+.icon-026-quote:before {
+    content: "\f11a";
+}
+.icon-027-pin:before {
+    content: "\f11b";
+}
+.icon-028-facebook:before {
+    content: "\f11c";
+}
+.icon-029-linkedin-1:before {
+    content: "\f11d";
+}
+.icon-030-placeholder:before {
+    content: "\f11e";
+}
+.icon-031-location-1:before {
+    content: "\f11f";
+}
+.icon-032-plus:before {
+    content: "\f120";
+}
+.icon-033-check-2:before {
+    content: "\f121";
+}
+.icon-034-delete:before {
+    content: "\f122";
+}
+.icon-035-phone-call:before {
+    content: "\f123";
+}
+.icon-036-menu:before {
+    content: "\f124";
+}
+.icon-037-sparkle:before {
+    content: "\f125";
+}
+.icon-038-dot:before {
+    content: "\f126";
+}
+.icon-039-share:before {
+    content: "\f127";
+}
+.icon-040-star:before {
+    content: "\f128";
+}
+.icon-041-chevron:before {
+    content: "\f129";
+}
+.icon-042-plus-1:before {
+    content: "\f12a";
+}
+.icon-043-customer-service:before {
+    content: "\f12b";
+}
+.icon-044-right-arrow:before {
+    content: "\f12c";
+}
+.icon-045-dots-menu:before {
+    content: "\f12d";
+}
+.icon-046-date:before {
+    content: "\f12e";
+}
+.icon-047-quotation:before {
+    content: "\f12f";
+}
+.icon-048-youtube:before {
+    content: "\f130";
+}
+.icon-049-minus-sign:before {
+    content: "\f131";
+}
+.icon-050-eye:before {
+    content: "\f132";
+}
+.icon-051-user:before {
+    content: "\f133";
+}
+.icon-052-bubble-chat:before {
+    content: "\f134";
+}
+.icon-053-diagonal-arrow:before {
+    content: "\f135";
+}
+.icon-054-bubble-chat-1:before {
+    content: "\f136";
+}
+.icon-055-top-right:before {
+    content: "\f137";
+}
+.icon-056-basket:before {
+    content: "\f138";
+}
+.icon-057-down-arrow-1:before {
+    content: "\f139";
+}
+.icon-058-left-chevron:before {
+    content: "\f13a";
+}
+.icon-059-upload:before {
+    content: "\f13b";
+}
+.icon-060-arrowhead-up:before {
+    content: "\f13c";
+}
+.icon-061-dairy-products:before {
+    content: "\f13d";
+}
+.icon-062-shop:before {
+    content: "\f13e";
+}
+.icon-063-milk:before {
+    content: "\f13f";
+}
+.icon-064-milking:before {
+    content: "\f140";
+}
+.icon-065-dairy-products-1:before {
+    content: "\f141";
+}
+.icon-066-drink:before {
+    content: "\f142";
+}
+.icon-067-food:before {
+    content: "\f143";
+}
+.icon-068-cheese:before {
+    content: "\f144";
+}
+.icon-069-dairy-products-2:before {
+    content: "\f145";
+}
+.icon-070-cheese-1:before {
+    content: "\f146";
+}
+.icon-071-milk-bottle:before {
+    content: "\f147";
+}
+.icon-072-milk-tank:before {
+    content: "\f148";
+}
+.icon-073-milk-box:before {
+    content: "\f149";
+}
+.icon-074-milk-1:before {
+    content: "\f14a";
+}
+.icon-075-milking-1:before {
+    content: "\f14b";
+}
+.icon-076-cow:before {
+    content: "\f14c";
+}
+.icon-077-milk-bottle-1:before {
+    content: "\f14d";
+}
+.icon-078-dairy:before {
+    content: "\f14e";
+}
+.icon-079-cow-1:before {
+    content: "\f14f";
+}
+.icon-080-cow-2:before {
+    content: "\f150";
+}
+.icon-081-milk-2:before {
+    content: "\f151";
+}
+.icon-082-dairy-1:before {
+    content: "\f152";
+}
+.icon-083-milk-3:before {
+    content: "\f153";
+}
+.icon-084-dairy-products-3:before {
+    content: "\f154";
+}
+.icon-085-cheese-2:before {
+    content: "\f155";
+}
+.icon-086-cheese-3:before {
+    content: "\f156";
+}
+.icon-087-milk-4:before {
+    content: "\f157";
+}
+.icon-088-dairy-products-4:before {
+    content: "\f158";
+}
+
